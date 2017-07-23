@@ -3,7 +3,13 @@ Hi everyone!
 
 I love data visualizations! And if you love them too, I think you will find this bubble plot very nice and useful.
 
-## Motivation
+- [Motivation](#motivation)
+- [Usage Example](#usage)
+- [Dependencies](#dependencies)
+- [Contact](#contact)
+
+
+## <a name="motivation"></a>Motivation
 
 The goal for the bubble plot is to help us visualize linear and non-linear connections between numerical/categorical features in our data in an easy and simple way.
 The bubble plot is a kind of a 2 dimensional histogram using bubbles.
@@ -27,7 +33,7 @@ Normalization by all means joint distribution p(x,y), if it is false we see the 
 log would apply log on the counts which will make the differences between the largest bubble to the smallest bubble much smaller, so if you have large differences between the frequencies of different values you might want to use that.
 
 
-## Usage Example
+## <a name="usage"></a>Usage Example
 
 ```python
 import pandas as pd                             
@@ -42,13 +48,13 @@ The resulting bubble plot will look like this:
 ![](https://github.com/shirmeir/bubble_plot/blob/master/bubble_plot.png)
    
    
-## Dependencies
+## <a name="dependencies"></a>Dependencies
   * pandas
   * numpy
   * matplotlib                                   
 
 
-## Contact
+## <a name="contact"></a>Contact
 
 Please let me know if you have any questions. My email is meir.shir86@gmail.com.
 
