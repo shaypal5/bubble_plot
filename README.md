@@ -36,10 +36,10 @@ Setting the `log` parameter to `True` would apply the natural log function - ele
 ```python
 import pandas as pd                             
 from sklearn.datasets import load_boston                            
-data=load_boston()                            
+data = load_boston()                            
 df = pd.DataFrame(columns=data['feature_names'], data=data['data'])                            
 df['target'] = data['target']                            
-bubble_plot(df,x = 'RM', y = 'target')    
+bubble_plot(df, x='RM', y='target')    
 ```                        
 
 The resulting bubble plot will look like this:
