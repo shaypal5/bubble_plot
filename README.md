@@ -3,13 +3,13 @@ Hi everyone!
 
 I love data visualizations! And if you love them too, I think you will find this bubble plot very nice and useful.
 
-- [Motivation](#motivation)
+- [Motivation & Usage](#motivation)
 - [Usage Example](#usage)
 - [Dependencies](#dependencies)
 - [Contact](#contact)
 
 
-## <a name="motivation"></a>Motivation
+## <a name="motivation"></a>Motivation & Usage
 
 The goal for the bubble plot is to help us visualize linear and non-linear connections between numerical/categorical features in our data in an easy and simple way. The bubble plot is a kind of a 2-dimensional histogram using bubbles. It suits every combination of categorical and numerical features.
 
