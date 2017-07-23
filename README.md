@@ -11,7 +11,7 @@ I love data visualizations! And if you love them too, I think you will find this
 
 ## <a name="motivation"></a>Motivation
 
-The goal for the bubble plot is to help us visualize linear and non-linear connections between numerical/categorical features in our data in an easy and simple way. The bubble plot is a kind of a 2 dimensional histogram using bubbles. It suits every combination of categorical and numerical features.
+The goal for the bubble plot is to help us visualize linear and non-linear connections between numerical/categorical features in our data in an easy and simple way. The bubble plot is a kind of a 2-dimensional histogram using bubbles. It suits every combination of categorical and numerical features.
 
 The bubble size is proportional to the frequency of the data points in this point.
 
